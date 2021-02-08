@@ -1,0 +1,80 @@
+.socialLinks {
+    color: black;
+}
+.userDesc {
+    color: black;
+    font-size: large;
+}
+img {
+    border-radius: 50px;
+    border: 3px solid white;
+}
+.beBold {
+    font-weight: bold;
+}
+.streamerName {
+    color: black;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+.lifetimeTitle {
+    margin-top: 20px;
+}
+.streamerDir {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.cheeriness {
+    background-color: transparent !important;
+}
+.aboutTheProject {
+    margin: 100px;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+}
+.greetings {
+    text-align: center;
+    padding: 15px 0px;
+}
+.greetings h1 {
+    color: white;
+}
+.social {
+    font-size: 2em;
+    margin-right: 5px;
+}
+.twitch {
+    color: #6441A4;
+}
+.twitter {
+    color: #1DA1F2;
+}
+.youtube {
+     color: #FF0000;
+}
+.pen {
+    color: #6441A4;
+}
+.wiki {
+    color: black;
+}
+.facebook {
+    color: #4267B2;
+}
+.container-fluid {
+    background-image: url("img/chess.jpg");
+}
+.vegas {
+    background-color: lavenderblush;
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+.streamerDir {
+    background-image: url("img/Board.png");
+    min-height: 500px;
+}
+strong a {
+    color: black;
+}

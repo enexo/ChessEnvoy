@@ -13,6 +13,8 @@ import lrozmanPic from '../img/Levy-Rozman.png';
 console.log("Hi Programmers! My Name is Nathan Orlowski and this is my ReactJS passion project.  If you are interested " +
     "in seeing my CV, please go to NathanOrlowski.com")
 
+//Live Updates on Individual Streamers
+
 function Home() {
     return (
             <div className="container-fluid">

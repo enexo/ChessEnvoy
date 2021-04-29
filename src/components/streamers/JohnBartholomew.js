@@ -11,7 +11,7 @@ function JohnBartholomew() {
     // eslint-disable-next-line
     const [displayName, setDisplayName] = useState('unknown');
     const [userDesc, setUserDesc] = useState('unknown');
-    const [isLive, setIsLive] = useState('unknown');
+    const [isLive, setIsLive] = useState('offline');
 
     useEffect(() => {
         const fetchData = async () => {

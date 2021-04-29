@@ -1,5 +1,4 @@
 import React, {  } from 'react';
-import StreamerList from '../components/StreamerList';
 import JohnBartholomew from './streamers/JohnBartholomew';
 
 
@@ -8,7 +7,10 @@ const JBartholomew = () => (
         <div className="container">
             <div className="row">
                 <div className="col">
-                    <StreamerList/>
+                    <div className="row">
+                        <iframe src="https://player.twitch.tv/?channel=JohnBartholomew&parent=localhost" frameBorder="0"
+                                allowFullScreen="true" scrolling="no" height="378" width="620" title="John Plays Chess"></iframe>
+                    </div>
                 </div>
                 <div className="col">
                     <JohnBartholomew/>

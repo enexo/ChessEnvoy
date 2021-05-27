@@ -8,7 +8,7 @@ const CNetwork = () => (
             <div className="row">
                 <div className="col">
                     <div className="row">
-                        <iframe src="https://player.twitch.tv/?channel=chessnetwork&parent=localhost" frameBorder="0"
+                        <iframe src="https://player.twitch.tv/?channel=chessnetwork&parent=chessenovy.netlify.app" frameBorder="0"
                                 allowFullScreen="true" scrolling="no" height="378" width="620" title="Jerry Plays Chess"></iframe>
                     </div>
                 </div>
